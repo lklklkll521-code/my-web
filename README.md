@@ -1,4 +1,4 @@
-# my-web<!DOCTYPE html>
+
 <html lang="mn">
 <head>
 <meta charset="UTF-8">
